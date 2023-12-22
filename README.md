@@ -1,6 +1,11 @@
 # Logo Maker SVG
   ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
+  ## Video Demonstration
+
+https://github.com/thefrenchman1/Logo-Maker-SVG/assets/139165770/5962d26a-e25e-43b0-886b-f30d7be51454
+
+
   ## Description
   
   This project was designed to teach me object oriented programming.
